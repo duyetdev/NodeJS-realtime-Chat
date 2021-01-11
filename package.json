@@ -9,7 +9,7 @@
     "express": "~4.4.5",
     "jquery": "~2.1.1",
     "requirejs": "~2.1.14",
-    "socket.io": "~1.0.6"
+    "socket.io": "~3.0.0"
   },
   "devDependencies": {},
   "scripts": {
